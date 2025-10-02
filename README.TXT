@@ -28,3 +28,19 @@ The purpose of this project is to demonstrate and study library classes, such
 as ArrayList, HashMap, HashSet, and Random.
 
 This project is only a first, rudimentary step towards the full solution.
+
+Question 24: 
+Hashmap: Hash table based implementation of the Map interface. Provides all of the optional map operations, and permits null values and the null key.
+Map: Object that maps keys to values.
+
+Question 25:
+K: the type of keys maintained by this map
+V: the type of mapped values
+
+Question 26: 
+It typically has a size property that returns the number of entries (key-value pairs) contained in the map.
+
+Question 27:
+
+
+
